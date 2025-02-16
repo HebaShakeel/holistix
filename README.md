@@ -1,6 +1,7 @@
 # Links to the related papers: 
 
 - [Efficient Few-Shot Learning Without Prompts](https://arxiv.org/pdf/2209.11055)
+- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/pdf/2210.11416.pdf)
 - [WELLXPLAIN: Wellness Concept Extraction and Classification in Reddit Posts for Mental Health Analysis](https://arxiv.org/pdf/2308.13710)
 
 The labels used throughout the project are as follows:
