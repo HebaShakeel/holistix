@@ -1,3 +1,4 @@
+# Holistix: A Dataset for Holistic Wellness Dimensions Analysis in Mental Health Narratives
 The labels used throughout the project are as follows:
 - 0: Intellectual Aspect
 - 1: Vocational Aspect
